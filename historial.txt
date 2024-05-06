@@ -1,0 +1,23 @@
+commit bc62547c60e4ff08a92e1657fc2e56b75e6b4cc9
+Author: NataliaMK2 <nataliamsociales@gmail.com>
+Date:   Mon May 6 10:00:41 2024 +0200
+
+    Añadiendo pagina2.html
+
+commit e23456d816edd0983cc664394995ad465c2ba7b1
+Author: NataliaMK2 <nataliamsociales@gmail.com>
+Date:   Mon May 6 09:54:27 2024 +0200
+
+    Añadiendo pagina1.html
+
+commit a295aaa5661a6a414f9c7a29ad13f0510fbd0fac
+Author: NataliaMK2 <nataliamsociales@gmail.com>
+Date:   Mon May 6 09:42:22 2024 +0200
+
+    Primer commit
+
+commit 66de28b25bd43b8d960319df60d51215d7dfc0d2
+Author: NataliaMK2 <nataliamsociales@gmail.com>
+Date:   Mon May 6 09:38:53 2024 +0200
+
+    primer commit
